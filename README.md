@@ -25,6 +25,9 @@
     <a href="https://www.instagram.com/adhelio">
         <img src="https://img.shields.io/badge/Instagram-E1306C?&logo=instagram&logoColor=white" alt="Instagram">
     </a>
+    <a href="https://twitter.com/Adheliooo">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?&logo=twitter&logoColor=white" alt="Twitter">
+    </a>
   <br><br>
 </h2>
 
@@ -51,6 +54,24 @@
     </a>
   <a href="https://github.com/Adhelio">
         <img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp" alt="C#">
+    </a>
+  <br><br>
+</h2>
+
+<h2 align="center">
+  Designing Tools <img src="https://github.com/Adhelio/Adhelio/blob/main/assets/Rocket.png" width="28px" alt=""><br><br>
+  
+  <a href="https://github.com/Adhelio">
+        <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma" alt="Figma">
+    </a>
+    <a href="https://github.com/Adhelio">
+        <img src="https://img.shields.io/badge/Adobe%20Photoshop-black?style=for-the-badge&logo=Adobe%20Photoshop" alt="Adobe Photoshop">
+    </a>
+    <a href="https://github.com/Adhelio">
+        <img src="https://img.shields.io/badge/Adobe%20Illustrator-black?style=for-the-badge&logo=Adobe%20Illustrator" alt="Adobe Illustrator">
+    </a>
+    <a href="https://github.com/Adhelio">
+        <img src="https://img.shields.io/badge/Canva-black?style=for-the-badge&logo=Canva" alt="Canva">
     </a>
   <br><br>
 </h2>

@@ -32,8 +32,8 @@
 </h2>
 
 <h2 align="center">
-  Programming Languages <img src="https://github.com/Adhelio/Adhelio/blob/main/assets/Robot.png" width="28px" alt="🤖"><br><br>
-  
+  Programming Skills <img src="https://github.com/Adhelio/Adhelio/blob/main/assets/Robot.png" width="28px" alt="🤖"><br><br>
+
   <a href="https://github.com/Adhelio">
         <img src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk" alt="Java">
     </a>
@@ -41,7 +41,19 @@
         <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" alt="Python">
     </a>
   <a href="https://github.com/Adhelio">
-        <img src="https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql" alt="SQL">
+        <img src="https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=jupyter" alt="Jupyter">
+    </a>
+  <a href="https://github.com/Adhelio">
+        <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql" alt="MySQL">
+    </a>
+  <a href="https://github.com/Adhelio">
+        <img src="https://img.shields.io/badge/SQL Server-black?style=for-the-badge&logo=microsoft-sql-server" alt="MS SQL Server">
+    </a>
+  <a href="https://github.com/Adhelio">
+        <img src="https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=sqlite" alt="SQLite">
+    </a>
+  <a href="https://github.com/Adhelio">
+        <img src="https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase" alt="Firebase">
     </a>
   <a href="https://github.com/Adhelio">
         <img src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5" alt="HTML5">

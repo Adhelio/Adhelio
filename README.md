@@ -7,7 +7,7 @@
 <p align="center">
   <b>I'm Adhelio!</b><br>
   <i>Third Year Information Systems Student<br>at Universitas Multimedia Nusantara</i><br><br>
-  Currently I'm studying on Big Data Analytics that includes ML/DL<br>
+  Currently I'm studying on Advanced Big Data Analytics that includes Business Intelligence with ML/DL<br>
   and also seeking for internship opportunities. 📑📊<br>
 </p>
 

@@ -6,10 +6,9 @@
 
 <p align="center">
   <b>I'm Adhelio!</b><br>
-  <i>Former Data Analyst Intern at Kompas Gramedia: KG Media</i><br><br>
+  <i>Former Data Analyst Intern at Kompas Gramedia: KG Media</i><br>
   <i>Information Systems Graduate<br>from Universitas Multimedia Nusantara</i><br><br>
-  Currently I'm seeking another internship opportunities in Data Science and Analytics<br>
-  after being a Data Analyst Intern at Kompas Gramedia Group 📑📊<br>
+  Currently I'm seeking position opportunities in Data Science and Analytics field 📑📊<br>
 </p>
 
 #
